@@ -1,0 +1,4 @@
+/snap/clion/82/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/home/danium/Qt/5.13.0/gcc_64/lib/cmake -G "CodeBlocks - Unix Makefiles" "/home/danium/Documents/GitHub/CE2103/Tareas DOCS/Tarea 4"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/danium/Documents/GitHub/CE2103/Tareas DOCS/Tarea 4/cmake-build-debug
